@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="kisspng-technology-strategy-business-content-strategy-orga-5b3ba246196815.5083051815306348221041" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-technology-strategy-business-content-strategy-orga-5b3ba246196815.5083051815306348221041.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-trader-computer-icons-foreign-exchange-market-busi-5b2c804058c784.5969148615296430723637" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-trader-computer-icons-foreign-exchange-market-busi-5b2c804058c784.5969148615296430723637.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-transparent-forex-signal-foreign-exchange-market-trader-service-business-business-service-people-investment-thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-transparent-forex-signal-foreign-exchange-market-trader-service-business-business-service-people-investment-thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SL-022321-41020-041" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SL-022321-41020-041.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-stock-market-day-trading-trader-option-5b19ec9c82d853.377141481528425628536" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-stock-market-day-trading-trader-option-5b19ec9c82d853.377141481528425628536.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5a35912e88ad56.6643673715134600145598" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5a35912e88ad56.6643673715134600145598.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-computer-icons-benchmarking-computer-software-clip-5ad795b096d809.0153599715240780006179" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-computer-icons-benchmarking-computer-software-clip-5ad795b096d809.0153599715240780006179.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-digital-marketing-market-research-consultant-busin-5b3b68aaed3859.6893368615306200749717" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-digital-marketing-market-research-consultant-busin-5b3b68aaed3859.6893368615306200749717.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-stock-market-day-trading-trader-option-5b19ec9c82d8531" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-stock-market-day-trading-trader-option-5b19ec9c82d853.3771414815284256285361.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-financial-accounting-accountant-bookkeeping-clip-a-portfolio-5abcd7202d5e05.3055835215223252801858" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-financial-accounting-accountant-bookkeeping-clip-a-portfolio-5abcd7202d5e05.3055835215223252801858.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SL-022321-41020-04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SL-022321-41020-04.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-candlestick-pattern-candlestick-chart-foreign-exch-creative-crows-5ae6ad9917e281.2185244315250671610978" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-candlestick-pattern-candlestick-chart-foreign-exch-creative-crows-5ae6ad9917e281.2185244315250671610978.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-transparent-forex-signal-foreign-exchange-market-trader-service-business-business-service-people-investment-thumbnail1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-transparent-forex-signal-foreign-exchange-market-trader-service-business-business-service-people-investment-thumbnail1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-vladimir-school-educational-institution-planning-i-pen-diary-5a8bffbfed1655.1088503615191244159711" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-vladimir-school-educational-institution-planning-i-pen-diary-5a8bffbfed1655.1088503615191244159711.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="776-7760866_south-african-smart-money" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\776-7760866_south-african-smart-money.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="slide-1-graph1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slide-1-graph1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-stock-trader-day-trading-analyst-5aba2d669ad811.8506791315221507586342" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-stock-trader-day-trading-analyst-5aba2d669ad811.8506791315221507586342.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="slide-1-graph" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\slide-1-graph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-bank-question-indian-financial-system-code-finance-5b0f5f02c8fa58.5550989415277340188232" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-bank-question-indian-financial-system-code-finance-5b0f5f02c8fa58.5550989415277340188232.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forex-logo-png-transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\forex-logo-png-transparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-pdf-adobe-acrobat-computer-icons-pdf-icon-5b23e6c8e168c0.9082328015290794969233" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-pdf-adobe-acrobat-computer-icons-pdf-icon-5b23e6c8e168c0.9082328015290794969233.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-home-assistant-computer-icons-home-automation-kits-5b2beb86ae54e0.8600300515296049987141" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-home-assistant-computer-icons-home-automation-kits-5b2beb86ae54e0.8600300515296049987141.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5a221b3dcd6018.7087169615121846378412" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5a221b3dcd6018.7087169615121846378412.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,174 @@
+E:\GAD project\GADproject3\GADproject3\bin\Debug\GADproject3.exe.config
+E:\GAD project\GADproject3\GADproject3\bin\Debug\GADproject3.exe
+E:\GAD project\GADproject3\GADproject3\bin\Debug\GADproject3.pdb
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.AssemblyReference.cache
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.AdminLogin.resources
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.Home.resources
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.Properties.Resources.resources
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.GenerateResource.cache
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.CoreCompileInputs.cache
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.exe
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.pdb
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.Admin.resources
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.CreateAcoount.resources
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.UserLogin.resources
+E:\GAD project\GADproject3\GADproject3\obj\Debug\GADproject3.User.resources
+E:\GADproject3\GADproject3\bin\Debug\GADproject3.exe.config
+E:\GADproject3\GADproject3\bin\Debug\GADproject3.exe
+E:\GADproject3\GADproject3\bin\Debug\GADproject3.pdb
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.AssemblyReference.cache
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.Admin.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.AdminLogin.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.CreateAcoount.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.User.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.Home.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.Properties.Resources.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.UserLogin.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.GenerateResource.cache
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.CoreCompileInputs.cache
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.exe
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.pdb
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.TradingJournal.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.TraderUpload.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.ViewTradeDetails.resources
+E:\GADproject3\GADproject3\obj\Debug\GADproject3.EditTrades.resources
+E:\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe.config
+E:\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe
+E:\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.pdb
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.AssemblyReference.cache
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Admin.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.AdminLogin.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.CreateAcoount.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.EditTrades.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.TradingJournal.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.User.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Home.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Properties.Resources.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.UserLogin.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewTradeDetails.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.GenerateResource.cache
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.CoreCompileInputs.cache
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.exe
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.pdb
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageDocuments.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageAU.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.DocumentView.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.MeetingView.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewEntries.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Meetings.resources
+E:\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Signals.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe.config
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.pdb
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.AssemblyReference.cache
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Admin.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.AdminLogin.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.CreateAcoount.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.DocumentView.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.EditTrades.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageAU.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageDocuments.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Meetings.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.MeetingView.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Signals.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.TradingJournal.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.User.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Home.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Properties.Resources.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.UserLogin.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewEntries.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewTradeDetails.resources
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.GenerateResource.cache
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.CoreCompileInputs.cache
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.exe
+C:\Users\fathima shazna\Desktop\New folder\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.pdb
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe.config
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.pdb
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.AssemblyReference.cache
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Admin.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.AdminLogin.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.CreateAcoount.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.DocumentView.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.EditTrades.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageAU.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageDocuments.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Meetings.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.MeetingView.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Signals.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.TradingJournal.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.User.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Home.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Properties.Resources.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.UserLogin.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewEntries.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewTradeDetails.resources
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.GenerateResource.cache
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.CoreCompileInputs.cache
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.exe
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.pdb
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe.manifest
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.application
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.exe.manifest
+C:\Users\Sandaru\Desktop\Final Outut\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.application
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe.config
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe.manifest
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.application
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.pdb
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.AssemblyReference.cache
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Admin.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.AdminLogin.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ContactUs.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.CreateAcoount.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.DocumentView.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.EditTrades.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageAU.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageDocuments.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Meetings.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.MeetingView.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Signals.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.TradingJournal.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.User.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Home.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Properties.Resources.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.UserLogin.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewEntries.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewTradeDetails.resources
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.GenerateResource.cache
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.CoreCompileInputs.cache
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.exe.manifest
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.application
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.exe
+C:\Users\Sandaru\Desktop\New folder (6)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.pdb
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe.config
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe.manifest
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.application
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.exe
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\bin\Debug\GADproject3.pdb
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.AssemblyReference.cache
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Admin.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.AdminLogin.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ContactUs.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.CreateAcoount.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.DocumentView.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.EditTrades.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageAU.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ManageDocuments.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Meetings.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.MeetingView.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Signals.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.TradingJournal.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.User.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Home.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.Properties.Resources.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.UserLogin.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewEntries.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.ViewTradeDetails.resources
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.GenerateResource.cache
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.csproj.CoreCompileInputs.cache
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.exe.manifest
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.application
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.exe
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.pdb
+C:\Users\Sandaru\Desktop\New folder (7)\hhh\Gad Project 12072\GADproject3\GADproject3\obj\Debug\GADproject3.AboutUs.resources
